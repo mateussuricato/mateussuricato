@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Mateus Suricato 👋
 
-🌱 Full Stack student | 😄 Pronomes: ele/dele
+🌱 Full Stack Developer | 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/mateussuricato">
